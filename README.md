@@ -1,6 +1,9 @@
 
 **Automated Executive Reporting & Flight-Ops-AI-Briefing**
 
+## Live Demo
+🔗 https://flight-ops-ai-briefing.streamlit.app/
+
 ## 📌 Project Overview
 
 This project is a specialized dashboard designed for Airline Operations Control Centers (OCC). It processes raw flight data (CSV) and leverages the **Gemini 2.5 Flash** model to generate automated, data-driven executive briefings.
